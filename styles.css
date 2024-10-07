@@ -83,7 +83,7 @@ body{
 .attribution a { color: hsl(228, 45%, 44%); }
 
 
-@media (max-width: 500) {
+@media (max-width: 500px) {
     .container img {
         width: 20%;
     }
